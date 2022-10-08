@@ -63,6 +63,7 @@ const Home: NextPage = () => {
           <span className={styles.logo}>
             <Image src='/vercel.svg' alt='Vercel Logo' width={72} height={16} />
           </span>
+          <h1 className='text-red-500'>hello eslam from the other side</h1>
         </a>
       </footer>
     </div>
